@@ -1,0 +1,342 @@
+[
+  {
+    "id": 11,
+    "nama_provinsi": "Aceh (NAD)",
+    "jumlah_kabupaten": "23",
+    "jumlah_kecamatan": "289",
+    "jumlah_kelurahan": "6497",
+    "deskripsi": "Aceh adalah sebuah provinsi di Indonesia yang terletak pada bagian ujung utara Pulau Sumatera dengan ibu kota di Banda Aceh. Letaknya dekat dengan Kepulauan Andaman dan Nikobar di India dan terpisahkan oleh Laut Andaman. Aceh berbatasan dengan Teluk Benggala dan Laut Andaman di sebelah utara, Samudra Hindia di sebelah barat, Selat Malaka di sebelah timur, dan Sumatera Utara di sebelah tenggara dan selatan.",
+    "jumlah_penduduk": "5.570.453 Jiwa (2024)",
+    "luas_wilayah": "57.956 km2"
+  },
+  {
+    "id": 12,
+    "nama_provinsi": "Sumatera Utara",
+    "jumlah_kabupaten": "33",
+    "jumlah_kecamatan": "444",
+    "jumlah_kelurahan": "6110",
+    "deskripsi": "Sumatera Utara atau Sumatra Utara adalah sebuah provinsi di Indonesia yang berada di bagian utara Pulau Sumatera dan ibukotanya berada di Kota Medan.",
+    "jumlah_penduduk": "15.584.873 Jiwa (2024)",
+    "luas_wilayah": "72.981,23 km2"
+  },
+  {
+    "id": 13,
+    "nama_provinsi": "Sumatera Barat",
+    "jumlah_kabupaten": "19",
+    "jumlah_kecamatan": "179",
+    "jumlah_kelurahan": "1158",
+    "deskripsi": "Sumatera Barat adalah sebuah provinsi di Indonesia yang terletak di Pulau Sumatra dengan ibu kota Padang. Provinsi Sumatera Barat terletak sepanjang pesisir barat Sumatra bagian tengah, dataran tinggi Bukit Barisan di sebelah timur, dan sejumlah pulau di lepas pantainya seperti Kepulauan Mentawai.",
+    "jumlah_penduduk": "5.788.436 Jiwa (2024)",
+    "luas_wilayah": "42.012,89 km2"
+  },
+  {
+    "id": 14,
+    "nama_provinsi": "Riau",
+    "jumlah_kabupaten": "12",
+    "jumlah_kecamatan": "166",
+    "jumlah_kelurahan": "1859",
+    "deskripsi": "Riau adalah sebuah provinsi di Indonesia yang terletak di pantai timur pulau Sumatra bagian tengah. Wilayah pesisirnya berbatasan dengan Selat Malaka. Hingga tahun 2004, provinsi ini juga meliputi Kepulauan Riau, sekelompok besar pulau-pulau kecil (pulau-pulau utamanya antara lain Pulau Batam dan Pulau Bintan) yang terletak di sebelah Timur Sumatra dan sebelah Selatan Singapura. Kepulauan ini dimekarkan menjadi provinsi tersendiri pada Juli 2004.",
+    "jumlah_penduduk": "6.969.031 Jiwa (2024)",
+    "luas_wilayah": "89.935,90 km2"
+  },
+  {
+    "id": 15,
+    "nama_provinsi": "Jambi",
+    "jumlah_kabupaten": "11",
+    "jumlah_kecamatan": "141",
+    "jumlah_kelurahan": "1562",
+    "deskripsi": "Jambi merupakan wilayah yang terkenal dalam literatur kuno. Nama negeri ini, sering disebut dalam prasasti dan juga berita-berita Tiongkok. Ini merupakan bukti bahwa, orang Cina telah lama memiliki hubungan dengan Jambi, yang mereka sebut dengan nama Kien-pi atau Chan-pei.",
+    "jumlah_penduduk": "3.795.579 Jiwa. (2024)",
+    "luas_wilayah": "50.160,05 km2"
+  },
+  {
+    "id": 16,
+    "nama_provinsi": "Sumatera Selatan",
+    "jumlah_kabupaten": "17",
+    "jumlah_kecamatan": "236",
+    "jumlah_kelurahan": "3239",
+    "deskripsi": "Sumatera Selatan adalah provinsi di Indonesia yang terletak di bagian Selatan pulau Sumatera. Ibu kota Sumatera Selatan berada di Kota Palembang. Provinsi ini kaya akan sumber daya alam, seperti minyak bumi, gas alam dan batu bara.",
+    "jumlah_penduduk": "8.973.168 Jiwa (2024)",
+    "luas_wilayah": "91.592,43 km2"
+  },
+  {
+    "id": 17,
+    "nama_provinsi": "Bengkulu",
+    "jumlah_kabupaten": "10",
+    "jumlah_kecamatan": "128",
+    "jumlah_kelurahan": "1513",
+    "deskripsi": "Bengkulu adalah sebuah Provinsi yang berada di Pulau Sumatera, Indonesia dengan ibu kota di Kota Bengkulu. Provinsi Bengkulu merupakan provinsi terkecil urutan pertama di daratan Pulau Sumatera dan provinsi terkecil urutan kesepuluh di Indonesia.",
+    "jumlah_penduduk": "2.115.024 Jiwa (2024)",
+    "luas_wilayah": "19.919,33 km2"
+  },
+  {
+    "id": 18,
+    "nama_provinsi": "Lampung",
+    "jumlah_kabupaten": "15",
+    "jumlah_kecamatan": "228",
+    "jumlah_kelurahan": "2640",
+    "deskripsi": "Lampung adalah sebuah provinsi di bagian ujung selatan Pulau Sumatra, Indonesia. Ibu kota provinsi ini terletak di Kota Bandar Lampung. Provinsi ini memiliki dua kota, yaitu Kota Bandar Lampung dan Kota Metro.",
+    "jumlah_penduduk": "9.176.546 Jiwa (2022)",
+    "luas_wilayah": "33.553,55 km2"
+  },
+  {
+    "id": 19,
+    "nama_provinsi": "Kepulauan Bangka Belitung",
+    "jumlah_kabupaten": "7",
+    "jumlah_kecamatan": "47",
+    "jumlah_kelurahan": "391",
+    "deskripsi": "Kepulauan Bangka Belitung adalah sebuah provinsi di Indonesia yang terdiri dari dua pulau utama yaitu Pulau Bangka dan Pulau Belitung serta ratusan pulau-pulau kecil, total pulau yang telah bernama berjumlah 470 pulau dan yang berpenghuni hanya 50 pulau. Bangka Belitung terletak di bagian timur Pulau Sumatera, berbatasan dengan provinsi Sumatera Selatan. Bangka Belitung dikenal sebagai daerah penghasil timah.",
+    "jumlah_penduduk": "1.537.627 Jiwa (2024)",
+    "luas_wilayah": "16.424,23 km2"
+  },
+  {
+    "id": 21,
+    "nama_provinsi": "Kepulauan Riau",
+    "jumlah_kabupaten": "7",
+    "jumlah_kecamatan": "70",
+    "jumlah_kelurahan": "416",
+    "deskripsi": "Kepulauan Riau adalah sebuah wilayah provinsi yang terletak di Indonesia. Provinsi ini beribu kota di Kota Tanjungpinang. Provinsi ini berbatasan langsung dengan Vietnam, Kamboja, dan Laut Tiongkok Selatan di sebelah utara Laut Natuna Utara; provinsi Kalimantan Barat dan Sarawak (Malaysia) di sebelah timur; provinsi Kepulauan Bangka Belitung dan Jambi di selatan; negara Singapura, tiga negara bagian Malaysia Barat (Terengganu, Pahang, dan Johor) dan provinsi Riau di sebelah barat.",
+    "jumlah_penduduk": "2.220.043 Jiwa (2024)",
+    "luas_wilayah": "8.201,72 km2"
+  },
+  {
+    "id": 31,
+    "nama_provinsi": "DKI Jakarta",
+    "jumlah_kabupaten": "5",
+    "jumlah_kecamatan": "44",
+    "jumlah_kelurahan": "267",
+    "deskripsi": "Jakarta, secara resmi bernama Daerah Khusus Ibukota Jakarta atau DKI Jakarta, sebelumnya dikenal sebagai Batavia adalah ibu kota Indonesia dan sekaligus daerah otonom setingkat provinsi. Jakarta terletak di pesisir bagian barat laut Pulau Jawa. Jakarta mendapat julukan The Big Durian karena dianggap kota yang sebanding dengan Kota New York (Big Apple) di Amerika Serikat.",
+    "jumlah_penduduk": "11.135.191 Jiwa (2024)",
+    "luas_wilayah": "7.659,02 km2"
+  },
+  {
+    "id": 32,
+    "nama_provinsi": "Jawa Barat",
+    "jumlah_kabupaten": "27",
+    "jumlah_kecamatan": "627",
+    "jumlah_kelurahan": "5957",
+    "deskripsi": "Jawa Barat adalah provinsi yang terletak di Pulau Jawa, Indonesia. Provinsi ini beribu kota di Kota Bandung. Jawa Barat berbatasan dengan Banten dan DKI Jakarta di sebelah barat, Laut Jawa di utara, Jawa Tengah di timur, dan Samudra Hindia di sebelah selatan. Bersama dengan Banten, Jawa Barat disebut sebagai Tatar Sunda atau Pasundan karena merupakan kampung asli masyarakat Sunda, suku terbesar kedua di Indonesia.",
+    "jumlah_penduduk": "50.489.208 Jiwa (2024)",
+    "luas_wilayah": "35.377,76 km2"
+  },
+  {
+    "id": 33,
+    "nama_provinsi": "Jawa Tengah",
+    "jumlah_kabupaten": "35",
+    "jumlah_kecamatan": "573",
+    "jumlah_kelurahan": "8559",
+    "deskripsi": "Jawa Tengah adalah sebuah wilayah provinsi di Indonesia yang terletak di bagian tengah Pulau Jawa. Ibu kota Provinsi Jawa Tengah berada di Kota Semarang. Provinsi ini berbatasan dengan Provinsi Jawa Barat di sebelah barat, Samudra Hindia beserta Daerah Istimewa Yogyakarta di sebelah selatan, Provinsi Jawa Timur di sebelah timur dan Laut Jawa di sebelah utara.",
+    "jumlah_penduduk": "38.280.887 Jiwa (2024)",
+    "luas_wilayah": "32.800,69 km2"
+  },
+  {
+    "id": 34,
+    "nama_provinsi": "DI Yogyakarta",
+    "jumlah_kabupaten": "5",
+    "jumlah_kecamatan": "78",
+    "jumlah_kelurahan": "438",
+    "deskripsi": "Daerah Istimewa Yogyakarta adalah daerah Istimewa setingkat provinsi di Indonesia yang merupakan peleburan dari Negara Kesultanan Yogyakarta dan Negara Kadipaten Paku Alaman dengan ibu kota di Kota Yogyakarta. Daerah Istimewa Yogyakarta terletak di bagian selatan Pulau Jawa, dan berbatasan dengan Provinsi Jawa Tengah dan Samudra Hindia.",
+    "jumlah_penduduk": "3.710.229 (2023)",
+    "luas_wilayah": "3.185,80 km2"
+  },
+  {
+    "id": 35,
+    "nama_provinsi": "Jawa Timur",
+    "jumlah_kabupaten": "38",
+    "jumlah_kecamatan": "666",
+    "jumlah_kelurahan": "8501",
+    "deskripsi": "Jawa Timur adalah sebuah wilayah provinsi yang terletak di bagian timur Pulau Jawa, Indonesia. Ibu kotanya adalah Kota Surabaya. Jawa Timur memiliki wilayah terluas di antara enam provinsi di pulau Jawa, dan memiliki jumlah penduduk terbanyak kedua di Indonesia setelah Jawa Barat. Hampir seperempat dari jumlah penduduk Jawa Timur bermukim di wilayah metropolitan Surabaya.",
+    "jumlah_penduduk": "41.644.099 Jiwa (2023)",
+    "luas_wilayah": "48.033,00 km2"
+  },
+  {
+    "id": 36,
+    "nama_provinsi": "Banten",
+    "jumlah_kabupaten": "8",
+    "jumlah_kecamatan": "155",
+    "jumlah_kelurahan": "1551",
+    "deskripsi": "Banten adalah sebuah provinsi yang terletak pada bagian ujung barat Pulau Jawa, Indonesia. Provinsi ini beribu kota di Kota Serang. Sebelum terjadi pemekaran daerah, provinsi ini sebelumnya pernah menjadi bagian dari wilayah Jawa Barat yang kemudian resmi dimekarkan pada tanggal 4 Oktober 2000.",
+    "jumlah_penduduk": "12.628.199 Jiwa (2024)",
+    "luas_wilayah": "9.662,92 km2"
+  },
+  {
+    "id": 51,
+    "nama_provinsi": "Bali",
+    "jumlah_kabupaten": "9",
+    "jumlah_kecamatan": "57",
+    "jumlah_kelurahan": "716",
+    "deskripsi": "Bali adalah sebuah provinsi di Indonesia yang terletak pada bagian barat Kepulauan Nusa Tenggara dan beribu kota di Kota Denpasar. Pulau Bali, yang merupakan pulau terbesar di Provinsi Bali, memiliki beberapa julukan, di antaranya Pulau Dewata dan Pulau Seribu Pura.",
+    "jumlah_penduduk": "4.361.106 Jiwa (2024)",
+    "luas_wilayah": "5.780,06 km2"
+  },
+  {
+    "id": 52,
+    "nama_provinsi": "Nusa Tenggara Barat (NTB)",
+    "jumlah_kabupaten": "10",
+    "jumlah_kecamatan": "116",
+    "jumlah_kelurahan": "1137",
+    "deskripsi": "Nusa Tenggara Barat (disingkat NTB) ialah sebuah provinsi di Indonesia yang berada di bagian tengah Kepulauan Nusa Tenggara di antara provinsi Bali di sebelah barat dan provinsi Nusa Tenggara Timur di sebelah Timur. Pusat pemerintahan dan ibu kota provinsi ini berada di Kota Mataram.",
+    "jumlah_penduduk": "5.666.314 Jiwa (2024)",
+    "luas_wilayah": "20.124,48 km2"
+  },
+  {
+    "id": 53,
+    "nama_provinsi": "Nusa Tenggara Timur (NTT)",
+    "jumlah_kabupaten": "22",
+    "jumlah_kecamatan": "309",
+    "jumlah_kelurahan": "3353",
+    "deskripsi": "Nusa Tenggara Timur (disingkat NTT) adalah sebuah provinsi di Indonesia yang meliputi bagian timur Kepulauan Nusa Tenggara. Ibu kota Nusa Tenggara Timur berada di Kota Kupang. Provinsi ini terdiri dari 1.192 pulau, tiga pulau utama di Nusa Tenggara Timur adalah Pulau Flores, Pulau Sumba dan Pulau Timor yang berbatasan dengan Timor Leste.",
+    "jumlah_penduduk": "5.675.711 Jiwa (2024)",
+    "luas_wilayah": "46.447,0 km2"
+  },
+  {
+    "id": 61,
+    "nama_provinsi": "Kalimantan Barat",
+    "jumlah_kabupaten": "14",
+    "jumlah_kecamatan": "174",
+    "jumlah_kelurahan": "2130",
+    "deskripsi": "Kalimantan Barat adalah sebuah provinsi di Indonesia, yang berada di pulau Kalimantan, dengan ibu kota atau pusat pemerintahan berada di kota Pontianak. Daerah Kalimantan Barat termasuk salah satu daerah yang dapat dijuluki provinsi \"Seribu Sungai\". Julukan ini selaras dengan kondisi geografis yang mempunyai ratusan sungai besar dan kecil yang di antaranya dapat dan sering dilayari.",
+    "jumlah_penduduk": "5.598.190 Jiwa (2024)",
+    "luas_wilayah": "147.037,037 km2"
+  },
+  {
+    "id": 62,
+    "nama_provinsi": "Kalimantan Tengah",
+    "jumlah_kabupaten": "14",
+    "jumlah_kecamatan": "136",
+    "jumlah_kelurahan": "1571",
+    "deskripsi": "Kalimantan Tengah adalah salah satu provinsi di Indonesia yang terletak di pulau Kalimantan, yang beribu kota di Palangka Raya. Hutan mendominasi wilayah 80%. Hutan primer tersisa sekitar 25% dari luas wilayah. Lahan yang luas saat ini mulai didominasi kebun Kelapa Sawit yang mencapai 700.000 ha (2007). Perkebunan karet dan rotan rakyat masih tersebar hampir diseluruh daerah, terutama di Kabupaten Kapuas, Katingan, Pulang Pisau, Gunung Mas dan Kotawaringin Timur.",
+    "jumlah_penduduk": "2.784.971 Jiwa (2024)",
+    "luas_wilayah": "153.564,50 km2"
+  },
+  {
+    "id": 63,
+    "nama_provinsi": "Kalimantan Selatan",
+    "jumlah_kabupaten": "13",
+    "jumlah_kecamatan": "153",
+    "jumlah_kelurahan": "2008",
+    "deskripsi": "Kalimantan Selatan adalah sebuah provinsi yang berada di pulau Kalimantan, Indonesia. Sejak 16 Maret 2022, ibu kota provinsi ini resmi dipindah ke Kota Banjarbaru untuk menggantikan Kota Banjarmasin. Secara historis wilayah Kalimantan Selatan mula-mula dibentuk merupakan wilayah Karesidenan Kalimantan Selatan (dengan Residen Mohammad Hanafiah) di dalam Provinsi Kalimantan itu sendiri.",
+    "jumlah_penduduk": "4.234.214 Jiwa (2023)",
+    "luas_wilayah": "38.744,00 km2"
+  },
+  {
+    "id": 64,
+    "nama_provinsi": "Kalimantan Timur",
+    "jumlah_kabupaten": "10",
+    "jumlah_kecamatan": "103",
+    "jumlah_kelurahan": "1038",
+    "deskripsi": "Kalimantan Timur adalah sebuah provinsi di pulau Kalimantan, Indonesia. Kalimantan Timur merupakan wilayah dengan kepadatan penduduk terendah ke empat di Indonesia. Ibu kotanya adalah Kota Samarinda.",
+    "jumlah_penduduk": "4.050.079 Jiwa (2024)",
+    "luas_wilayah": "127.346,92 km2"
+  },
+  {
+    "id": 65,
+    "nama_provinsi": "Kalimantan Utara",
+    "jumlah_kabupaten": "5",
+    "jumlah_kecamatan": "53",
+    "jumlah_kelurahan": "482",
+    "deskripsi": "Kalimantan Utara adalah sebuah provinsi di Indonesia yang terletak di bagian utara Pulau Kalimantan. Provinsi ini berbatasan langsung dengan negara tetangga Malaysia, yaitu negara bagian Sabah dan Sarawak. Pusat pemerintahan Kalimantan Utara saat ini berada di Tanjung Selor, yang juga sebagai pusat pemerintahan Kabupaten Bulungan.",
+    "jumlah_penduduk": "760.724 Jiwa (2024)",
+    "luas_wilayah": "75.467,70 km2"
+  },
+  {
+    "id": 71,
+    "nama_provinsi": "Sulawesi Utara",
+    "jumlah_kabupaten": "15",
+    "jumlah_kecamatan": "171",
+    "jumlah_kelurahan": "1839",
+    "deskripsi": "Sulawesi Utara adalah salah satu provinsi yang terletak di ujung utara Pulau Sulawesi, Indonesia, dengan ibu kota terletak di kota Manado. Sulawesi Utara atau Sulut berbatasan dengan Laut Maluku dan Samudra Pasifik di sebelah timur, Laut Maluku dan Teluk Tomini di sebelah selatan, Laut Sulawesi dan Provinsi Gorontalo di sebelah barat, dan Provinsi Davao Occidental (Filipina) di sebelah utara.",
+    "jumlah_penduduk": "2.643.125 Jiwa (2024)",
+    "luas_wilayah": "13.892,47 km2"
+  },
+  {
+    "id": 72,
+    "nama_provinsi": "Sulawesi Tengah",
+    "jumlah_kabupaten": "13",
+    "jumlah_kecamatan": "175",
+    "jumlah_kelurahan": "2017",
+    "deskripsi": "Sulawesi Tengah adalah sebuah provinsi di bagian tengah Pulau Sulawesi, Indonesia. Ibu kota provinsi ini adalah Kota Palu. Wilayah Provinsi Sulawesi Tengah bagian utara berbatasan dengan Laut Sulawesi dan Provinsi Gorontalo, bagian timur berbatasan dengan Provinsi Maluku Utara, bagian selatan berbatasan dengan Provinsi Sulawesi Barat, bagian tengah berbatasan dengan Provinsi Sulawesi Selatan, bagian tenggara berbatasan dengan Sulawesi Tenggara, dan bagian barat berbatasan dengan Selat Makassar.",
+    "jumlah_penduduk": "3.154.499 Jiwa (2023)",
+    "luas_wilayah": "61.841,29 km2"
+  },
+  {
+    "id": 73,
+    "nama_provinsi": "Sulawesi Selatan",
+    "jumlah_kabupaten": "24",
+    "jumlah_kecamatan": "307",
+    "jumlah_kelurahan": "3047",
+    "deskripsi": "Sulawesi Selatan adalah sebuah provinsi di semenanjung selatan Sulawesi, Indonesia. Kepulauan Selayar di selatan Sulawesi juga merupakan bagian dari provinsi tersebut. Ibu kota provinsi ini berada di Kota Makassar. Provinsi ini berbatasan dengan Sulawesi Tengah dan Sulawesi Barat di utara, Teluk Bone dan Sulawesi Tenggara di timur, Selat Makassar di barat, dan Laut Flores di selatan.",
+    "jumlah_penduduk": "9.460.344 Jiwa (2024)",
+    "luas_wilayah": "46.717,48 km2"
+  },
+  {
+    "id": 74,
+    "nama_provinsi": "Sulawesi Tenggara",
+    "jumlah_kabupaten": "17",
+    "jumlah_kecamatan": "219",
+    "jumlah_kelurahan": "2292",
+    "deskripsi": "Sulawesi Tenggara adalah sebuah provinsi di Indonesia yang terletak bagian tenggara pulau Sulawesi, dengan ibu kota Kendari. Sulawesi Tenggara awalnya merupakan nama salah satu kabupaten di provinsi Sulawesi Selatan dengan ibukotanya adalah kecamatan Baubau. Sulawesi Tenggara ditetapkan sebagai Daerah Otonom berdasarkan Perpu No. 2 tahun 1964 Juncto UU No.13 Tahun 1964.",
+    "jumlah_penduduk": "2.785.517 Jiwa (2024)",
+    "luas_wilayah": "38.140 km2"
+  },
+  {
+    "id": 75,
+    "nama_provinsi": "Gorontalo",
+    "jumlah_kabupaten": "6",
+    "jumlah_kecamatan": "77",
+    "jumlah_kelurahan": "729",
+    "deskripsi": "Gorontalo adalah sebuah provinsi di Indonesia yang terletak di Semenanjung Minahasa, di bagian utara Pulau Sulawesi dengan ibu kota di Kota Gorontalo. Provinsi Gorontalo lahir pada 5 Desember 2000 berdasarkan Undang-Undang Nomor 38 Tahun 2000. Kota Gorontalo ditetapkan sebagai ibu kota Gorontalo, sekaligus menjadi pusat pemerintahan, pusat ekonomi dan perdagangan terbesar di Kawasan Teluk Tomini.",
+    "jumlah_penduduk": "1.192.737 Jiwa (2022)",
+    "luas_wilayah": "12.025,147 km2"
+  },
+  {
+    "id": 76,
+    "nama_provinsi": "Sulawesi Barat",
+    "jumlah_kabupaten": "6",
+    "jumlah_kecamatan": "69",
+    "jumlah_kelurahan": "648",
+    "deskripsi": "Sulawesi Barat adalah sebuah provinsi yang terletak di bagian barat pulau Sulawesi, Indonesia. Daerah ini pernah menjadi bagian dari provinsi Sulawesi Selatan hingga pemekaran provinsi pada 2004. Ibu kota provinsi Sulawesi Barat adalah Mamuju. Pembentukan provinsi Sulawesi Barat merupakan hasil pemekaran dari provinsi Sulawesi Selatan yang didasarkan pada Undang-Undang Nomor 26 Tahun 2004 yang disahkan dalam rapat Paripurna antara Pemerintah dan DPR RI, dan diresmikan oleh Menteri Dalam Negeri atas nama Presiden Republik Indonesia pada tanggal 16 Oktober 2004.",
+    "jumlah_penduduk": "1.460.753 Jiwa (2024)",
+    "luas_wilayah": "16.787,18 km2"
+  },
+  {
+    "id": 81,
+    "nama_provinsi": "Maluku",
+    "jumlah_kabupaten": "11",
+    "jumlah_kecamatan": "118",
+    "jumlah_kelurahan": "1233",
+    "deskripsi": "Maluku adalah sebuah provinsi di Indonesia. Ibu kota provinsi ini terletak di Kota Ambon, yang juga merupakan kota terbesar di provinsi ini. Provinsi ini meliputi bagian selatan Kepulauan Maluku. Provinsi ini berbatasan dengan Laut Seram di bagian utara, Samudra Hindia dan Laut Arafura di bagian selatan, Pulau Papua di bagian timur, dan Pulau Sulawesi di bagian barat.",
+    "jumlah_penduduk": "1.925.301 Jiwa (2024)",
+    "luas_wilayah": "46.914,03 km2"
+  },
+  {
+    "id": 82,
+    "nama_provinsi": "Maluku Utara",
+    "jumlah_kabupaten": "10",
+    "jumlah_kecamatan": "115",
+    "jumlah_kelurahan": "1180",
+    "deskripsi": "Maluku Utara  merupakan sebuah provinsi di Indonesia. Ibu kota provinsi ini terletak di Sofifi. Provinsi ini terletak di bagian timur Indonesia yang resmi terbentuk pada 4 Oktober 1999, yang sebelumnya menjadi kabupaten dari Provinsi Maluku bersama dengan Kabupaten Halmahera Tengah, berdasarkan UU RI Nomor 46 Tahun 1999 dan UU RI Nomor Tahun 2003.",
+    "jumlah_penduduk": "1.374.859 Jiwa (2024)",
+    "luas_wilayah": "31.982,50 km2"
+  },
+  {
+    "id": 91,
+    "nama_provinsi": "Papua",
+    "jumlah_kabupaten": "29",
+    "jumlah_kecamatan": "560",
+    "jumlah_kelurahan": "5521",
+    "deskripsi": "Papua adalah provinsi yang terletak di bagian tengah Pulau Papua atau bagian paling timur wilayah Papua milik Indonesia. Belahan timurnya merupakan negara Papua Nugini. Provinsi Papua sebelumnya bernama Irian Jaya yang mencakup seluruh wilayah Pulau Papua. Sejak tahun 2003 dibagi menjadi dua provinsi, dengan bagian timur tetap memakai nama Papua sedangkan bagian baratnya memakai nama Papua Barat.",
+    "jumlah_penduduk": "4.303.707 Jiwa (2020)",
+    "luas_wilayah": "312.224,37 km2"
+  },
+  {
+    "id": 92,
+    "nama_provinsi": "Papua Barat",
+    "jumlah_kabupaten": "13",
+    "jumlah_kecamatan": "218",
+    "jumlah_kelurahan": "1837",
+    "deskripsi": "Papua Barat adalah sebuah provinsi Indonesia yang terletak di ujung barat Pulau Papua. Wilayah Papua Barat mencakup Semenanjung Domberai, Bomberai, Wondiwoi, serta Kepulauan Raja Ampat. Ibukota provinsi ini terletak di Manokwari dengan kota terbesarnya di Sorong. Provinsi ini dimekarkan dari Provinsi Papua melalui Undang-Undang Nomor 45 Tahun 1999. Pada awalnya pembentukan provinsi ini mendapatkan penolakan dari masyarakat sehingga implementasi dari pemekaran ini baru dilaksanakan melalui Instruksi Presiden Nomor 1 Tahun 2003. Walaupun pada 11 November 2004 Mahkamah Konstitusi menyatakan bahwa dasar hukum pembentukan Provinsi Irian Jaya Barat sudah tidak memiliki kekuatan hukum yang mengikat, namun keberadaan provinsi ini dinyatakan tetap sah.",
+    "jumlah_penduduk": "1.134.068 Jiwa (2020)",
+    "luas_wilayah": "102.955,15 km2"
+  }
+]

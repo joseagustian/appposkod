@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="12dp"
+    android:layout_marginTop="15dp"
+    android:layout_marginEnd="15dp"
+    app:cardBackgroundColor="#FFFFFF"
+    app:cardCornerRadius="15dp"
+    android:clipChildren="true"
+    android:clipToPadding="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/cv_provinces"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clipChildren="true"
+        android:clipToPadding="true"
+        android:padding="12dp">
+
+        <ImageView
+            android:id="@+id/img_province_logo"
+            android:layout_width="106dp"
+            android:layout_height="127dp"
+            android:contentDescription="@string/logo_provinsi"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/ic_launcher_background" />
+
+        <TextView
+            android:id="@+id/txt_nama_provinsi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/nama_provinsi"
+            android:textSize="16sp"
+            android:layout_marginStart="15dp"
+            android:paddingBottom="10dp"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toEndOf="@id/img_province_logo" />
+
+        <TextView
+            android:id="@+id/txt_jumlah_kabupaten"
+            android:layout_width="56dp"
+            android:layout_height="30dp"
+            android:text="@string/digit_placeholder"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            app:layout_constraintTop_toBottomOf="@id/txt_nama_provinsi"
+            app:layout_constraintStart_toStartOf="@id/txt_nama_provinsi" />
+
+        <TextView
+            android:id="@+id/txt_lbl_kabupaten"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="12dp"
+            android:text="@string/kabupaten"
+            android:textSize="12sp"
+            app:layout_constraintTop_toBottomOf="@id/txt_jumlah_kabupaten"
+            app:layout_constraintStart_toStartOf="@id/txt_jumlah_kabupaten" />
+
+        <TextView
+            android:id="@+id/txt_jumlah_kecamatan"
+            android:layout_width="56dp"
+            android:layout_height="30dp"
+            android:layout_marginStart="15dp"
+            android:textStyle="bold"
+            android:text="@string/digit_placeholder"
+            android:textSize="22sp"
+            app:layout_constraintStart_toEndOf="@id/txt_jumlah_kabupaten"
+            app:layout_constraintTop_toTopOf="@id/txt_jumlah_kabupaten" />
+
+        <TextView
+            android:id="@+id/txt_lbl_kecamatan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:text="@string/kecamatan"
+            android:textSize="12sp"
+            app:layout_constraintStart_toEndOf="@id/txt_lbl_kabupaten"
+            app:layout_constraintTop_toTopOf="@id/txt_lbl_kabupaten" />
+
+        <TextView
+            android:id="@+id/txt_jumlah_kelurahan"
+            android:layout_width="56dp"
+            android:layout_height="30dp"
+            android:layout_marginStart="15dp"
+            android:textStyle="bold"
+            android:text="@string/digit_placeholder"
+            android:textSize="22sp"
+            app:layout_constraintStart_toEndOf="@id/txt_jumlah_kecamatan"
+            app:layout_constraintTop_toTopOf="@id/txt_jumlah_kecamatan" />
+
+        <TextView
+            android:id="@+id/txt_lbl_kelurahan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:text="@string/kelurahan"
+            android:textSize="12sp"
+            app:layout_constraintStart_toEndOf="@id/txt_lbl_kecamatan"
+            app:layout_constraintTop_toTopOf="@id/txt_lbl_kecamatan" />
+
+        <TextView
+            android:id="@+id/txt_label_luas_provinsi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/luas_wilayah"
+            android:textSize="12sp"
+            app:layout_constraintTop_toBottomOf="@id/txt_lbl_kabupaten"
+            app:layout_constraintStart_toStartOf="@id/txt_lbl_kabupaten" />
+
+        <TextView
+            android:id="@+id/txt_luas_provinsi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/digit_placeholder_2"
+            android:textSize="12sp"
+            app:layout_constraintTop_toBottomOf="@id/txt_label_luas_provinsi"
+            app:layout_constraintStart_toStartOf="@id/txt_label_luas_provinsi" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.cardview.widget.CardView>
